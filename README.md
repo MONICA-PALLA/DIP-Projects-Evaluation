@@ -1,2 +1,2 @@
 # DIP-Projects-Evaluation
-Please add your projects code here
+Please run the main.m file to run the code.
